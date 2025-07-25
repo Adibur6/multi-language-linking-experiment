@@ -1,0 +1,29 @@
+# Compiled binaries and object files
+main
+*.o
+*.so
+*.dll
+*.dylib
+
+# Rust build artifacts
+target/
+Cargo.lock
+
+# Go build artifacts
+*.exe
+*.test
+
+# VS Code settings
+.vscode/
+
+# Misc
+*.log
+*.core
+
+# Python cache (if any)
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

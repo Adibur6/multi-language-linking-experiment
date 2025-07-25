@@ -1,0 +1,8 @@
+[package]
+name = "rust_prime_pairs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "rust_prime_pairs"
+crate-type = ["staticlib"]

@@ -51,3 +51,5 @@ count_primes:
 .done:
     mov rax, rcx        ; return count
     ret
+
+section .note.GNU-stack noalloc noexec nowrite progbits
